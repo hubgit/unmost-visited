@@ -9,6 +9,6 @@
     },
     "permissions": [
         "tabs",
-        "https://www.google.co.uk/_/chrome/newtab*"
+        "https://www.google.co.uk/_/chrome/newtab"
     ]
 }
